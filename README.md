@@ -2,7 +2,7 @@
 Photo parser for [generated.photos](https://generated.photos). Only black people avaliable.
 
 ## Говорите на русском?
-Я вот тоже. Тогда почему бы вам не прочитать README не русском?
+Я вот тоже. Тогда почему бы вам не прочитать [README не русском](https://github.com/k04an/nigg-face/blob/main/README_RU.md)?
 
 ## Why?
 So, the main reasons of creating this project was that there's no free tools that allow you to get placeholder images of people, in particular black.
