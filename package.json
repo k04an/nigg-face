@@ -1,6 +1,6 @@
 {
   "name": "@k04an/nigg-face",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parser for generated.photos. Only works with black people.",
   "main": "lib/main",
   "repository": {
