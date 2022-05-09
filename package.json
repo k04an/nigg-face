@@ -1,0 +1,16 @@
+{
+  "name": "nigg-face",
+  "version": "1.0.0",
+  "description": "Parser for generated.photos. Only works with black people.",
+  "main": "lib/main",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k04an/"
+  },
+  "author": "https://github.com/k04an",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^19.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
