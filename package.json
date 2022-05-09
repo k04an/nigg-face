@@ -1,5 +1,5 @@
 {
-  "name": "nigg-face",
+  "name": "@k04an/nigg-face",
   "version": "1.0.0",
   "description": "Parser for generated.photos. Only works with black people.",
   "main": "lib/main",
@@ -12,5 +12,12 @@
   "dependencies": {
     "jsdom": "^19.0.0",
     "node-fetch": "^2.6.7"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
